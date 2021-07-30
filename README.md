@@ -10,6 +10,8 @@ In the future, we will develop our project and as soon as the analysis of their 
 
 We wrote our project in pyhton language. We wrote the code on the colab platform because of the analysis situations. Three algorithms were used in this project. These are MFCC, PITCHES, CHROMA algorithms.
 
+We used the Speech_Emotion_Recognition_Model.h5 data file available for the training module. "Signal Graph", "Pitches Graph", "Spectrogram Graph", "Mel Graph", "Mel Frequency Cepstral Coefficients Graph", "Short Time Fourie Transform Graph", "Zero Crossing", "Rate Graph", "Spectral Rolloff Graph", "Chroma Frequency Graph" output. Thanks to the algorithms we used, we analyzed the sound and combined these analyzes to create a number because each number represents an emotion. At the end of the project, we reflected the emotion we analyzed from the sound and a picture of the emotion on the screen.
+
 ###########################################################################################
 
 Bu proje de ses komutunu kullanarak duygu analiz etmeyi sağladık. Bunun yaparken bütün duygu durumların seslerini kayıt ettik bu sayede yeni sesin duygu durumunu analiz edebildik. 
